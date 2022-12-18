@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*=========================NAVBAR SECTION===============================*/
+.header-bg{
+    background-color: #264653;
+}
+.bike-filter{
+    filter: grayscale(1);
+}
+@media only screen and (max-width:575.98px) {
+    .container{
+        width: 100%;
+    }
+}
